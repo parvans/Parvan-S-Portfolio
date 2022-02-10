@@ -22,6 +22,12 @@ body::-webkit-scrollbar {
 #parvan{
     color: #EF3724;
 }
+header{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
 #intro{
      font-family: 'Quicksand', sans-serif;
     position: relative;
